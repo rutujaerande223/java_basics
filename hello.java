@@ -6,6 +6,10 @@ class hello {
         int num2=5;
         // int result=num1+num2;
         System.out.println(num1+num2);
+
+        char c='a';
+        c++;
+        System.out.println(c);
     }
 }
 
